@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeElWV0NIUFNLaFpZWGdtSmYreGlZSVZrSHpJR2dzSVV1bHAvWmE4M1h4bFNRZ01YN0JGcCszRFgvKy9HZUo3ZDdRTjBoMSszRzZxWHZ4eEpVWElMdEZoRE9Vdm1mRUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjM4Mjc0CWZpbGU6S2VUb2FuSENTTl8wLjEuMF94NjRfZW4tVVMubXNpCjZEWkNSSk1YaHJzeVh1a0ZHWXdqSm1sYVdPd203MkJJZ2U5c21xVFY1bXVCYnd2cnVyR3pYSUZQTjR3SWJ2ME1oM3g1OE0waFhrdmpjb1FTRkFIRURBPT0K",
-      "url": "https://github.com/tclamhai/KeToanAI/edit/main/KeToanHCSN_1.2.0_x64_en-US.msi.zip"
+      "url": "https://github.com/tclamhai/KeToanAI/releases/download/v1.0.1/KeToanHCSN_0.1.0_x64_en-US.zip"
     }
   }
 }

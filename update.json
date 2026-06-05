@@ -1,0 +1,11 @@
+{
+  "version": "1.2.0",
+  "notes": "Bản cập nhật v1.2.0 sửa lỗi xuất Excel và thêm báo cáo Tháng 13.",
+  "pub_date": "2026-05-24T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "CHUỖI_SIGNATURE_TAURI_SINH_RA_KHI_BUILD_CHO_WINDOWS",
+      "url": "https://github.com/your-username/ketoan-hcsn/releases/download/v1.2.0/KeToanHCSN_1.2.0_x64_en-US.msi.zip"
+    }
+  }
+}

@@ -1,11 +1,11 @@
 {
-  "version": "v1.0.5",
-  "notes": "Bản cập nhật v1.0.5 thiết kế lại màn hình báo cáo",
-  "pub_date": "2026-06-06T00:00:00Z",
+  "version": "v1.0.6",
+  "notes": "Bản cập nhật v1.0.6 tích hợp tính năng Thêm/Sửa tài khoản và loại bỏ tiêu đề trùng lặp.",
+  "pub_date": "2026-06-17T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ29iUHNDamQxeEFMa2hzb2RXT05vK2N3dnYyTHQ2cTRwV0owSkduY2lOcDZqZE16MHBHK2NmLzZaVjZoZmFLUkFuWnBSRXA5VVl2aC8wMmNWN3RNNWFqN1hXWlcyR3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzA5MTg1CWZpbGU6S2VUb2FuSENTTl8xLjAuNV94NjRfZW4tVVMubXNpCklJVmRXSEQ4VkhBNnBZeXA3Zy9MQkhsQStxdjR6bGY4dGd2U1N0RFRZVEZUMkNpSGdENnpNUzZIbE5sTU1RVGt2aGlPNi85c2hCUkJkT2FnTW5oTUNnPT0K",
-      "url": "https://github.com/tclamhai/KeToanAI/releases/download/v1.0.5/KeToanHCSN_1.0.5_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeElWV0NIUFNLaFJJOTJ0Qk9zSE15UDR6RlhRRGZSVEdmS25BK09zUWI1c1k0bTcxQWFZRzRnL29oekFXb1h6YjQ4cFpIRks2TVFYTm5DMFRrMUVqd3EwaTQ3cVQ2V0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNzA4ODUyCWZpbGU6S2VUb2FuSENTTl8xLjAuNl94NjRfZW4tVVMubXNpCmtkOTlHNmZwaG5yeDVvVzdwZ2ZwbWxYc3I5U1hWZE5IOTVFbXlVVXk1R2FTajBjbFFkUEphMHh5MGVNTGRKUEV1dVhSMWFodERlUGdUMHpWTjNGYUFnPT0K",
+      "url": "https://github.com/tclamhai/KeToanAI/releases/download/v1.0.6/KeToanHCSN_1.0.6_x64_en-US.msi"
     }
   }
 }
